@@ -34,10 +34,11 @@ I am a seasoned developer with nearly a decade of experience **shipping** produc
 ### 📂 My Open Source
 
 - **[Zero](https://github.com/0php/Zero)** — A minimalist approach to the PHP ecosystem, focused on high-performance and developer experience.
-
+- **[Table Relay]([https://github.com/0php/Zero](https://github.com/ByteLogicLabs/Table-Relay))** — A fast, multi-database desktop workbench for browsing, querying, editing, and diagramming your data, with a built-in AI assistant.
 ---
 
 ### 📫 Connect with me
 
 - **LinkedIn:** [linkedin.com/in/tofikhidayatxyz](https://www.linkedin.com/in/tofikhidayatxyz/)
 - **GitHub:** [@tofikhidayatxyz](https://github.com/tofikhidayatxyz)
+- **Product Hunt:** [@tofik_hidayat](https://www.producthunt.com/@tofik_hidayat)
